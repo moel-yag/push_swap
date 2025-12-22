@@ -91,8 +91,6 @@ The checker outputs:
 - `KO` if the sequence does not sort the numbers properly.
 
 ## Resources
-
-- [42 Project PDF](https://github.com/qst0/42cursus/tree/main/push_swap)
 - [Sorting Algorithm Basics](https://en.wikipedia.org/wiki/Sorting_algorithm)
 
 ## Author
