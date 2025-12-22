@@ -91,6 +91,7 @@ The checker outputs:
 - `KO` if the sequence does not sort the numbers properly.
 
 ## Resources
+- https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a
 - [Sorting Algorithm Basics](https://en.wikipedia.org/wiki/Sorting_algorithm)
 
 ## Author
